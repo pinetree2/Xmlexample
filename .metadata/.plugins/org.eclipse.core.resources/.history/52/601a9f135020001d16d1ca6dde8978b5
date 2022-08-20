@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://127.0.0.1:5500/student.xsl"?>
+
+<class
+xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:schemaLocation="./student.xsd">
+>
+    <student>
+        <firstname>gildong</firstname>
+        <lastname>Hong</lastname>
+        <nickname>test1</nickname>
+        <age>16.1</age>
+        <gender>1</gender>
+        <birth>2001-01-01</birth>
+    </student>
+    <student>
+        <firstname>gildong</firstname>
+        <lastname>Hong</lastname>
+        <nickname>test2</nickname>
+        <age>16</age>
+        <gender>1</gender>
+        <birth>2001-01-03</birth>
+    </student>
+    <student>
+        <firstname>gildong</firstname>
+        <lastname>Hong</lastname>
+        <nickname>test3</nickname>
+        <age>17</age>
+        <gender>0</gender>
+        <birth>2001-01-02</birth>
+    </student>
+</class>
